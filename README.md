@@ -1,14 +1,15 @@
-# ENAR 2025 DataFest 
-  
-# Multivariate-Decomposition-Analysis
+# ENAR 2025 DataFest: Multivariate-Decomposition-Analysis
 
-This project is for the [ENAR 2025 DataFest](https://www.enar.org/meetings/spring2025/program/datafest_submission.cfm)
+This repository contains the code for the [ENAR 2025 DataFest](https://www.enar.org/meetings/spring2025/program/datafest_submission.cfm) submission.
 
 
 ## Abstract
 
-Abstract will go here
+[Abstract will go here]
 
+## Data
+
+[Information on data sources will go here]
 
 -------------------------------------------------------------
 ## Collaborators
@@ -19,6 +20,7 @@ Abstract will go here
 
 [Eteri Machavariani](https://github.com/akumar1246)
 
+**Affiliation:** Department of Biostatistics, New York University School of Global Public Health
 -------------------------------------------------------------
-## Affiliation: Department of Biostatistics, New York University School of Global Public Health
+
 
