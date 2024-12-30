@@ -1,2 +1,2 @@
-# Mutlivariate-Decomposition-Analysis
+# Multivariate-Decomposition-Analysis
 ENAR 2025 DataFest
