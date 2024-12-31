@@ -22,7 +22,7 @@ This repository will contain the code for the [ENAR 2025 DataFest](https://www.e
 
 [Rophence Ojiambo](https://github.com/rophenceojiambo)
 
-[Eteri Machavariani](https://github.com/machavariani)
+[Eteri Machavariani](https://github.com/uvarossa)
 
 **Affiliation:** Department of Biostatistics, New York University School of Global Public Health
 -------------------------------------------------------------
