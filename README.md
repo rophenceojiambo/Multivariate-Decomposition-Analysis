@@ -18,7 +18,7 @@ This repository will contain the code for the [ENAR 2025 DataFest](https://www.e
 -------------------------------------------------------------
 ## Collaborators
 
-[Kofi Agyabeng]()
+[Kofi Agyabeng](https://github.com/soothe-one)
 
 [Rophence Ojiambo](https://github.com/rophenceojiambo)
 
